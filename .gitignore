@@ -1,0 +1,7 @@
+.idea
+/dataset/lenta-ru-news.csv
+dataset
+date
+/classifier/__pycache__/
+/classifier/ManagerEmbaddings/__pycache__/
+/classifier/network/__pycache__/

@@ -1,0 +1,48 @@
+﻿=====================================W2V=====================================
+model: w2v	type:cbow	size: 100	result: 0.7925000011920929
+model: w2v	type:sg	size: 100	result: 0.8092000007629394
+model: w2v	type:cbow	size: 200	result: 0.804200005531311
+model: w2v	type:sg	size: 200	result: 0.8028000116348266
+model: w2v	type:cbow	size: 300	result: 0.8114999949932098
+model: w2v	type:sg	size: 300	result: 0.8328999936580658
+model: w2v	type:cbow	size: 500	result: 0.8128000020980835
+model: w2v	type:sg	size: 500	result: 0.8253999948501587
+=====================================FT======================================
+model: fasttext	type:cbow	size: 100	result: 0.7842999994754791
+model: fasttext	type:sg	size: 100	result: 0.8194999992847443
+model: fasttext	type:cbow	size: 200	result: 0.814599996805191
+model: fasttext	type:sg	size: 200	result: 0.8332000017166138
+model: fasttext	type:cbow	size: 300	result: 0.8194999992847443
+model: fasttext	type:sg	size: 300	result: 0.8435999989509583
+model: fasttext	type:cbow	size: 500	result: 0.823499995470047
+model: fasttext	type:sg	size: 500	result: 0.8367999970912934
+=====================================GLOVE===================================
+model: glove	type:	size: 100	result: 0.7212000012397766
+model: glove	type:	size: 200	result: 0.7353051087420135
+model: glove	type:	size: 300	result: 0.7687999904155731
+model: glove	type:	size: 500	result: 0.7464211330172325
+
+опечакти
+=====================================W2V=====================================
+model: w2v	type:cbow	size: 100	result: 0.7316812906452612
+model: w2v	type:cbow	size: 200	result: 0.740800005197525
+model: w2v	type:cbow	size: 500	result: 0.7383000075817108
+model: w2v	type:cbow	size: 300	result: 0.7230000019073486
+model: w2v	type:sg	size: 100	result: 0.7571999967098236
+model: w2v	type:sg	size: 200	result: 0.7677999973297119
+model: w2v	type:sg	size: 300	result: 0.762200003862381
+model: w2v	type:sg	size: 500	result: 0.7602000057697296
+=====================================FT======================================
+model: fasttext	type:cbow	size: 100	result: 0.7694999933242798
+model: fasttext	type:cbow	size: 200	result: 0.7893999993801117
+model: fasttext	type:cbow	size: 300	result: 0.7863000094890594
+model: fasttext	type:cbow	size: 500	result: 0.7813000023365021
+model: fasttext	type:sg	size: 100	result: 0.7917999982833862
+model: fasttext	type:sg	size: 200	result: 0.8052999913692475
+model: fasttext	type:sg	size: 300	result: 0.7996999979019165
+model: fasttext	type:sg	size: 500	result: 0.8013000130653382
+=====================================GLOVE===================================
+model: glove	type:	size: 100	result: 0.6865999877452851
+model: glove	type:	size: 200	result: 0.7053249021367865
+model: glove	type:	size: 300	result: 0.7017999947071075
+model: glove	type:	size: 500	result: 0.7189250641032137model: glove	type:	size: 300	result: 0.709199994802475
